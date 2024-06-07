@@ -3,6 +3,7 @@ body: ''
 content_type: resource
 draft: false
 file: /courses/res-str-001-geographic-information-system-gis-tutorial-january-iap-2022/mitres_str001iap22_level1_presentation_notes.pdf
+file_size: 5136304
 file_type: application/pdf
 image_metadata:
   caption: ''
