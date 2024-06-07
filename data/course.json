@@ -2,7 +2,7 @@
   "term": "January IAP",
   "year": "2022",
   "level": [
-    "Non Credit"
+    "Non-Credit"
   ],
   "topics": [
     [
@@ -22,6 +22,7 @@
     "website": "resstr-001-geographic-information-system-gis-tutorial"
   },
   "course_title": "Geographic Information System (GIS) Tutorial",
+  "hide_download": false,
   "course_description": "Learn how to read and interpret maps and data and use basic cartography principles to create maps that can be used in reports and presentations. After learning basic concepts, attendees will work through an exercise using ArcGIS Pro or QGIS.",
   "department_numbers": [
     "RES"
@@ -34,7 +35,8 @@
   },
   "learning_resource_types": [
     "Activity Assignments",
-    "Lecture Notes"
+    "Lecture Notes",
+    "Instructor Insights"
   ],
   "site_uid": "80865953-144b-4d0f-8ff3-8ebcb2e8a29e",
   "site_short_id": "res-str-001-iap-2022"
