@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/res-str-001-geographic-information-system-gis-tutorial-january-iap-2022/gis_level2_data.zip
+file: /ol-ocw-studio-app/courses/res-str-001-geographic-information-system-gis-tutorial-january-iap-2022/gis_level2_data.zip
 file_size: 60736479
 file_type: application/zip
 image_metadata:
