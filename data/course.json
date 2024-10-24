@@ -24,9 +24,7 @@
   "course_title": "Geographic Information System (GIS) Tutorial",
   "hide_download": false,
   "course_description": "Learn how to read and interpret maps and data and use basic cartography principles to create maps that can be used in reports and presentations. After learning basic concepts, attendees will work through an exercise using ArcGIS Pro or QGIS.",
-  "department_numbers": [
-    "RES"
-  ],
+  "department_numbers": [],
   "extra_course_numbers": "",
   "primary_course_number": "RES.STR-001",
   "course_image_thumbnail": {
