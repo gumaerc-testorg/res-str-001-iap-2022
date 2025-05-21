@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/res-str-001-geographic-information-system-gis-tutorial-january-iap-2022/res-str001iap22-th.png
+file: courses/resstr-001-geographic-information-system-gis-tutorial/res-str001iap22-th.png
 file_size: 20419
 file_type: image/png
 image_metadata:
