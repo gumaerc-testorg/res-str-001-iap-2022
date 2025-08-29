@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/resstr-001-geographic-information-system-gis-tutorial/mitres_str001iap22_level2_pres.pdf
+file: /ol-ocw-studio-app/courses/res-str-001-geographic-information-system-gis-tutorial-january-iap-2022/mitres_str001iap22_level2_pres.pdf
 file_size: 5206663
 file_type: application/pdf
 image_metadata:
